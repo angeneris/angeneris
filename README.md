@@ -1,6 +1,6 @@
-Hi, I’m @angeneris, an avid learner of all things and firm believer in creating a better life for all. 
-- 🌱 I’m currently an educator developing my Data analytic skills in SQL, Python and Excel.
-- Data topics I'm especially interested in: Social and Economic Disparities, Company Culture/ Employee Retention, Well-being/Health
+Hi, I’m @angeneris! 
+- 📚 I’m a Data Science student at Triple Ten, working mostly with Python but I've also taken classes in SQL and Excel. 
+-  I'm especially interested in working with cosumer data as well as analysing social and economic disparities in Health. 
 
 <!---
 angeneris/angeneris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
