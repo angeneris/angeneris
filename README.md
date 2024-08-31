@@ -1,6 +1,6 @@
 ## Hi, I’m Angeneris! 👋🏽<br>
 
-👩🏾‍🎓 I hold a B.A. in Psychology and Education and started coding in 2021 while teaching Middle School English and History. <br>
-📚 This Fall, I'm returning to school to take Computer Science and Math courses while completing the Data Science bootcamp at TripleTen.<br>
-🌟 My main interests lie in machine learning and AI, so I primarily work with Python and SQL.<br>
-🌱 One of my goals this year is to strengthen my skills in testing and web development, focusing on JavaScript, HTML, and CSS.<br>
+👩🏾‍🎓 Psychology and Education (B.A) I began coding as a Middle School teacher in 2020!<br> 
+📚 Currently studying Computer Science and Math at BMCC while completing TripleTen's Data Science bootcamp.<br>  
+🌟 Things I like: Machine learning and AI, visiting parks around the world, DIY fixes, city planning, and flaky croissants. <br> 
+🌱 Improving skills in testing and web development (JavaScript, HTML, CSS).<br>
