@@ -1,8 +1,6 @@
-Hi, I’m @angeneris! 
-- 📚 I’m a Data Science student at Triple Ten, working mostly with Python but I've also taken classes in SQL and Excel. 
--  I'm especially interested in working with consumer data as well as analyzing social and economic disparities in Health. 
+## Hi, I’m Angeneris! 👋🏽
 
-<!---
-angeneris/angeneris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👩🏾‍🎓 I hold a B.A. in Psychology and Education and started coding in 2021 while teaching Middle School English and History.
+📚 This Fall, I'm returning to school to take Computer Science and Math courses while completing the Data Science bootcamp at TripleTen.
+🌟 My main interests lie in machine learning and AI, so I primarily work with Python and SQL.
+🌱 One of my goals this year is to strengthen my skills in testing and web development, focusing on JavaScript, HTML, and CSS.
