@@ -10,7 +10,7 @@
 **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn<br>
 **Data Visualization:** Matplotlib, Seaborn, Tableau<br>
 <br>
-## 🌱 Skills I'm imporoving this year <br>
+## 🌱 Currently working on: <br>
 - Advanced statistical analysis <br>
-- JavaScript <br>
+- learning JavaScript <br>
 
