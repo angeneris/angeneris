@@ -4,13 +4,13 @@
 **📚 Currently:** Studying Computer Science @ BMCC, Data Science Fellow @ The Knowledge House <br>
 **💗 Things I like:** health, tech and making good choices <br> 
 <br>
-## Skills
-**Programming** Python 
-**Data Management:** SQL, MongoDB
-**Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn
-**Data Visualization:** Matplotlib, Seaborn, Tableau
+## Skills<br>
+**Programming** Python <br>
+**Data Management:** SQL, MongoDB<br>
+**Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn<br>
+**Data Visualization:** Matplotlib, Seaborn, Tableau<br>
 <br>
-## 🌱 Skills I'm imporoving this year
-- Advanced statistical analysis 
-- JavaScript 
+## 🌱 Skills I'm imporoving this year <br>
+- Advanced statistical analysis <br>
+- JavaScript <br>
 
